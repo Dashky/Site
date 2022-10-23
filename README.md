@@ -1,4 +1,4 @@
-<h3><a target="_blank" href="https://markmalinovsky.ru"> markmalinovsky.ru</a></h3>
+
 
 # Основы HTML/CSS
 
